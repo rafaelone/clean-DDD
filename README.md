@@ -17,7 +17,9 @@ DDD - Domain Driven Design ( Design Dirigido à dominio )
   - Barman
 
 - Agregados
+-
 - Value Objects - propriedades da entidades que possuem regras de negocios associados a essas propriedades
+-
 - Eventos de dominio
 - Subdominios ( Bounded Contexts )
 - Entidades
@@ -25,3 +27,5 @@ DDD - Domain Driven Design ( Design Dirigido à dominio )
 - Casos de uso
 
 Clean Architheture === DDD ?
+
+pasta Core utilizada para guarda códigos que vao ser utilizados na app toda
