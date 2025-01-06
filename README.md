@@ -118,7 +118,4 @@ Este projeto está sob a licença [MIT](LICENSE). Sinta-se à vontade para usá-
 
 Desenvolvido por [Rafael One](https://github.com/rafaelone). Se você gostou do projeto, não esqueça de deixar uma ⭐ no repositório!
 
-```
-
 Se precisar ajustar algum detalhe ou adicionar mais informações específicas sobre o projeto, é só avisar! 🚀
-```
