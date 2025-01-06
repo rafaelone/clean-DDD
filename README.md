@@ -1,6 +1,3 @@
-Aqui está um exemplo de README.md que pode ser usado como base para o projeto **clean-DDD**:
-
-````markdown
 # Clean DDD
 
 Este projeto é um exemplo de aplicação utilizando o **Domain-Driven Design (DDD)**, com foco em arquitetura limpa. Ele demonstra como estruturar um projeto seguindo as melhores práticas de design e desenvolvimento, organizando os módulos em camadas bem definidas.
@@ -44,11 +41,11 @@ O projeto segue o padrão de camadas proposto pelo DDD:
 ### Passos para execução
 
 1. **Clone o repositório**:
+
    ```bash
    git clone https://github.com/rafaelone/clean-DDD.git
    cd clean-DDD
    ```
-````
 
 2. **Instale as dependências**:
 
