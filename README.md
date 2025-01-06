@@ -2,8 +2,6 @@
 
 Este projeto é um exemplo de aplicação utilizando o **Domain-Driven Design (DDD)**, com foco em arquitetura limpa. Ele demonstra como estruturar um projeto seguindo as melhores práticas de design e desenvolvimento, organizando os módulos em camadas bem definidas.
 
----
-
 ## 🚀 Tecnologias Utilizadas
 
 - **Node.js**: Plataforma para execução do JavaScript no backend.
@@ -12,8 +10,6 @@ Este projeto é um exemplo de aplicação utilizando o **Domain-Driven Design (D
 - **Jest**: Framework de testes unitários.
 - **ESLint** e **Prettier**: Ferramentas para padronização de código.
 - **Docker**: Gerenciamento de contêineres para facilitar o ambiente de desenvolvimento.
-
----
 
 ## 📂 Estrutura do Projeto
 
@@ -28,8 +24,6 @@ O projeto segue o padrão de camadas proposto pelo DDD:
    - Lida com a integração de serviços externos, como bancos de dados e APIs.
 4. **Presentation**:
    - Interface com o usuário ou qualquer entrada/saída (ex.: REST APIs).
-
----
 
 ## 🛠️ Instalação e Uso
 
@@ -78,8 +72,6 @@ O projeto segue o padrão de camadas proposto pelo DDD:
 2. **Acessar a aplicação**:
    A aplicação estará disponível em `http://localhost:3000`.
 
----
-
 ## 🧪 Testes
 
 O projeto utiliza o **Jest** para testes unitários. Para rodar os testes:
@@ -94,14 +86,10 @@ Para ver a cobertura de testes:
 npm run test:coverage
 ```
 
----
-
 ## 📖 Documentação
 
 - [Domain-Driven Design (DDD)](https://www.domainlanguage.com/ddd/)
 - [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-
----
 
 ## 🤝 Contribuindo
 
@@ -122,13 +110,9 @@ Contribuições são bem-vindas! Para contribuir:
    ```
 5. Abra um Pull Request.
 
----
-
 ## 📝 Licença
 
 Este projeto está sob a licença [MIT](LICENSE). Sinta-se à vontade para usá-lo e modificá-lo conforme necessário.
-
----
 
 ## 👨‍💻 Autor
 
